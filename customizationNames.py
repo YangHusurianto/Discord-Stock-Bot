@@ -1,0 +1,2 @@
+customName = { 'sc': 'segmentColor', 'sfc': 'fillColorSell', 'bfc': 'fillColorBuy', 'sbbc': 'lineColor', 'bgc': 'backgroundColor', 'bc': 'borderColor', 'oc': 'outlineColor', 'tc': 'textColor', 'lc': 'labelColor', 'pc': 'pageColor' }
+uiName = { 'sc': 'Segment Color', 'sfc': 'Sell Fill Color', 'bfc': 'Buy Fill Color', 'sbbc': 'lineColor', 'bgc': 'Background Color', 'bc': 'Border Color', 'oc': 'Outline Color', 'tc': 'Text Color', 'lc': 'Label Color', 'pc': 'Page Color' }
